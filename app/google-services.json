@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "212316968983",
+    "firebase_url": "https://appclone-b9502.firebaseio.com",
+    "project_id": "appclone-b9502",
+    "storage_bucket": "appclone-b9502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212316968983:android:fd525befd8540bd4",
+        "android_client_info": {
+          "package_name": "com.ashok.appclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212316968983-2ru5vdn305tfii73l6dilorb69lh7qmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlNdcX6JNnNjGb_U3BWQ9siO_nEarPzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
